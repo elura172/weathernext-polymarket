@@ -1,0 +1,23 @@
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & Data
+*.log
+data/forecast_audit.jsonl
+
+# Operating System
+.DS_Store
+Thumbs.db
